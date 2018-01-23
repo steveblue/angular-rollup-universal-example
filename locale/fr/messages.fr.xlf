@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+  <file source-language="fr" datatype="plaintext" original="ng2.template">
+    <body>
+      <trans-unit id="921f55258fa4ecf02712bf6f19b35caae758bc81" datatype="html">
+        <source>Hello Again i18n!</source>
+        <target>Bonjour à nouveau!</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">ngfactory/src/app/shared/components/lazy/lazy.component.ts</context>
+          <context context-type="linenumber">3</context>
+        </context-group>
+        <note priority="1" from="description">An introduction header for this sample</note>
+        <note priority="1" from="meaning">User welcome</note>
+      </trans-unit>
+      <trans-unit id="8b019ffa59d8523da2a7fd3e826615a92e7d641a" datatype="html">
+        <source>Don&apos;t be lazy! Hard work pays off.</source>
+        <target>Ne sois pas paresseux! Travail acharné porte ses fruits.</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">ngfactory/src/app/shared/components/lazy/lazy.component.ts</context>
+          <context context-type="linenumber">4</context>
+        </context-group>
+        <note priority="1" from="description">An introduction paragraph</note>
+        <note priority="1" from="meaning">User intro</note>
+      </trans-unit>
+      <trans-unit id="af2ccf4b5dba59616e92cf1531505af02da8f6d2" datatype="html">
+        <source>Hello i18n!</source>
+        <target>Bonjour i18n!</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">ngfactory/src/app/shared/components/home/home.component.ts</context>
+          <context context-type="linenumber">3</context>
+        </context-group>
+        <note priority="1" from="description">An introduction header for this sample</note>
+        <note priority="1" from="meaning">User welcome</note>
+      </trans-unit>
+      <trans-unit id="8a51e6719e3e7647a8735a758827191ba902f14b" datatype="html">
+        <source>What did you think you&apos;d find here?</source>
+        <target>Qu'avez-vous pensé que vous trouveriez ici?</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">ngfactory/src/app/shared/components/home/home.component.ts</context>
+          <context context-type="linenumber">4</context>
+        </context-group>
+        <note priority="1" from="description">An introduction paragraph</note>
+        <note priority="1" from="meaning">User intro</note>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

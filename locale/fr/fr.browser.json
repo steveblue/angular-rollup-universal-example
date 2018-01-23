@@ -1,0 +1,8 @@
+{
+    "extends": "../../tsconfig.browser.json",
+    "angularCompilerOptions": {
+        "i18nInFile": "./locale/fr/messages.fr.xlf",
+        "i18nInLocale": "fr",
+        "i18nInFormat": "xlf"
+    }
+}
